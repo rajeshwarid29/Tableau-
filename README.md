@@ -1,4 +1,4 @@
-**Title: Car Claim Insurance**
+**Title: Car Claim Insurance Analysis**
 
 An Insurance Claims company with the Car Insurance Claims dataset.
 
